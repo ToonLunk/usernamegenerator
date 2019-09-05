@@ -23,10 +23,13 @@ If a username is not already taken, the username should be: "john.d.doe". If the
 # Example Input/Output
 
 First name Input: tYler
+
 Middle Initial Input: C
+
 Last name Input: bROck
 
 Output:
 
 realName: Tyler C Brock
+
 Username: tyler.c.brock
