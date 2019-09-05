@@ -19,3 +19,14 @@ The realName must be their full first and last name, with ONE middle initial use
 The username must be their full first name, followed by the first letter of their middle name, ending with their full last name; seperated with periods, with NO spaces in the name anywhere. See examples below.
 
 If a username is not already taken, the username should be: "john.d.doe". If there is already a matching name, it should be "john.d.doe1","john.d.doe2" and so on.
+
+# Example Input/Output
+
+First name Input: tYler
+Middle Initial Input: C
+Last name Input: bROck
+
+Output:
+
+realName: Tyler C Brock
+Username: tyler.c.brock
