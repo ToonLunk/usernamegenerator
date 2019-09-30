@@ -26,18 +26,18 @@
 
   First name 
  
- Input: tYler
+ Input: jOHN
 
   Middle Initial 
 
-Input: C
+Input: g
 
   Last name 
 
-Input: bROck
+Input: GrEeN
 
 Output:
 
-  realName: Tyler C Brock
+  realName: John G Greene
 
-  Username: tyler.c.brock
+  Username: john.g.greene
